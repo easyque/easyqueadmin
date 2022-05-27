@@ -3,7 +3,7 @@ import React from 'react';
 const App = ()=>{
   return(
     <div>
-      <h1>Welcome into easyque dashboard...</h1>
+      <h1>Welcome into easyque dashboard sdfdsfdf...</h1>
     </div>
   )
 }
